@@ -1,0 +1,126 @@
+
+.main{
+
+    padding-left : 10%;
+    width: 80%;
+
+}
+
+#img-div{
+    float: left;
+    margin-left :6%;
+}
+
+.button
+{
+    
+    z-index: 1;
+    position:fixed;
+   right:5px;
+   bottom:30px;
+   font-size:1.5em;
+   width: 20%;
+   text-align: center;
+   background:rgba(187, 95, 95, 0.5); 
+}
+
+
+
+input[type=submit], input[type=file]
+{
+	border: 0;
+	font-size : 1em;
+	display: inline;
+	background: white;
+	font-weight: bold;
+	font-family: "ITC bold";
+	cursor: pointer;
+}
+
+
+/* Remove the navbar's default rounded borders and increase the bottom margin */ 
+    .navbar {
+      border-radius: 0;
+    }
+
+  
+
+    .navbar-fixed {
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+  
+    }
+    
+    /* Remove the jumbotron's default bottom margin */ 
+     .jumbotron {
+      margin-bottom: 0;
+    }
+   
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;}
+
+    
+
+
+.city-thumbs{
+    width:20%;
+    float:left;
+    margin-left:5%;
+}
+
+.img-div-thumbs{
+    display: inline-block;
+    float: left;
+    margin-left: 5%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width:5%;
+
+}
+
+
+
+.img-div-thumbs p{
+    text-align: center;
+}
+
+.alert{
+    
+    text-align: center;
+    width: 99%;
+    background:rgba(187, 95, 95, 0.5);
+    text-decoration-style:black;
+
+}
+
+input[type=submit], input[type=file]
+{
+	border: 0;
+	font-size : 1em;
+	display: inline;
+	background: white;
+	font-weight: bold;
+	font-family: "ITC bold";
+	cursor: pointer;
+}
+
+.log-sx{
+  width:35%;
+  margin-top:-20px;
+  float:left;
+  margin-left:20%;
+}
+
+.log-dx{
+  margin-left:10%;
+  
+}
+
+
+.clear{
+  clear:both
+}
